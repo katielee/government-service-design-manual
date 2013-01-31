@@ -14,7 +14,7 @@ Cost per transaction should be measured for the existing service - if there is o
 
 ##What cost per transaction should I aim for?
 
-Cost per transaction should follow a downward trajectory over time. The aspiration is that digital by default services achieve a cost of 80 pence per transaction within five years of launch. In practice this figure may have to be adjusted to take into account large fixed costs which are unlikely to change over time, regardless of digital take-up.
+Cost per transaction should follow a downward trajectory over time.
 
 ##Worked example - DVLA
 
