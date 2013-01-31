@@ -10,7 +10,7 @@ This guidance covers implementing the user satisfaction KPI, including what to d
 </table>
 
 ##How frequently should I measure user satisfaction?
-An initial measure of user satisfaction must be taken during alpha testing to establish a benchmark. A further measure should be taken during beta testing and ideally will be above 80%. If user satisfaction is less than 80%, the service manager will need to develop a plan to achieve this level within six months of launch. The service will not necessarily be prevented from launching if such a plan is in place.
+An initial measure of user satisfaction must be taken during alpha testing to establish a benchmark. A further measure should be taken during beta testing. 
 
 ##What level of user satisfaction should I aim for?
 You should plan to reach a minimum level of user satisfaction of 80% within six months of launch. If you have not reached this level prior to launch, you must develop a plan including:
